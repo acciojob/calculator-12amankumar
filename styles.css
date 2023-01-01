@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+.main-container {
+    width: 400px;
+    margin-left: 90px;
+}
+.main-container input{
+    height: 50px;
+    width: 360px;
+    margin-bottom: 30px;
+    background: rgb(158, 122, 122);
+}
+.main-container button{
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+}
+#ans{
+    width: 175px;
+    background-color: forestgreen;
+}
+#clr{
+    width: 190px;
+    background-color: burlywood;
+}
+.btn{
+    background: rgb(226, 88, 88);
+}
